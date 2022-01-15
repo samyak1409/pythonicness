@@ -1,0 +1,40 @@
+https://youtu.be/zucvHSQsKHA
+
+
+List of Python Modules and Documentation
+
+
+Web:
+Requests: https://pypi.org/project/requests/  A simple, yet elegant HTTP library.
+Django: https://pypi.org/project/Django/  Heavyweight web framework. (more features)
+Flask: https://pypi.org/project/Flask/  Lightweight web framework. (less features)
+Twisted: https://twistedmatrix.com/trac/  Event-based framework for web apps. (use in online real-time interactive game)
+BeautifulSoup: https://pypi.org/project/beautifulsoup4/  Makes scraping data from web pages easy. (parse and clean the data)
+Selenium: https://selenium-python.readthedocs.io/  To automate web browser interaction from Python. (for testing web apps)
+
+
+Data science:
+Numpy: https://numpy.org/  Support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. (note that this module is faster because it does all the calculations in c!!)
+Pandas: https://pandas.pydata.org/  For data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
+Matplotlib: https://matplotlib.org/  Data Visualizations!
+Nltk: https://www.nltk.org/  A suite of libraries and programs for symbolic and statistical natural language processing for English.
+Opencv: https://opencv-python-tutroals.readth...  Real-time computer vision.
+
+
+Machine Learning:
+Tensorflow: https://www.tensorflow.org/  To help develop and train ML models. (massive lib with tons of stuff)
+Keras: https://keras.io/  High-level neural network API, capable of running on top of TF. (deep learning lib)
+Sci-kit Learn: https://scikit-learn.org/stable/  ML lib. (scikit-learn ~ TF lite)
+
+
+GUI:
+Kivy: https://kivy.org/#home  Framework for developing mobile apps and other multi-touch app software with a natural UI. (platform-independent GUI (PIGUI) lib, platforms- Linux, Windows, macOS, Android, iOS; can be used to develop software that can be ported to multiple computing platforms with no change to its source code!)
+PyQt5: https://pypi.org/project/PyQt5/  A Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in. (for greater customizable GUI)
+Tkinter: https://wiki.python.org/moin/TkInter  A Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI. The name Tkinter comes from Tk interface.
+
+Additional:
+pyinstaller- py to exe (windows)
+pyapp- py to app (macintosh)
+
+Bonus:
+Pygame: https://www.pygame.org/docs/  A cross-platform set of modules designed for writing video games. It includes computer graphics and sound libraries.

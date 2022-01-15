@@ -1,0 +1,8 @@
+Create
+
+pip freeze > requirements.txt
+
+
+Use
+
+pip install -r requirements.txt
